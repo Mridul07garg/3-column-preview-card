@@ -7,12 +7,13 @@ This is a solution to the [3-column preview card component challenge on Frontend
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
-- [My process](Design,making responsive)
-  - [HTML5,CSS]
-  - [media queries, placement of div]
-  - [MDN , Stackoverflow, web3Schools]
-  - [media query , flexbox]
-- [Mridul garg]
+  - [links](#links)
+- [Responsives, Alingemnt](#my-process)
+  - [HTML5,CSS](#built-with)
+  - [media queries, placement of div](#what-i-learned)
+  - [MDN , Stackoverflow, web3Schools](#useful-resources)
+  - [media query , flexbox](#continued-development)
+- [Mridul garg](#author)
 
 
 
@@ -26,12 +27,12 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-image.png
+
 
 ### Links
 
-- Solution URL: [Add solution URL here]
-- Live Site URL: [Add live site URL here]
+- Solution URL: [https://github.com/Mridul07garg/3-column-preview-card]
+- Live Site URL: [https://mridul07garg.github.io/3-column-preview-card/]
 
 ## My process
 
@@ -92,5 +93,6 @@ In this project i came across various problems. some the major are media queries
 - Website - [Mridul Garg](https://www.your-site.com)
 - Frontend Mentor - [@Mridul07garg](https://www.frontendmentor.io/profile/Mridul07garg)
 - Twitter - [@MridulG27253526](https://www.twitter.com/MridulG27253526)
+- LinkenIn - [@mridul-garg-072004](https://www.linkedin.com/in/mridul-garg-072004/)
 
 
